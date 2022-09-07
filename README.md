@@ -36,3 +36,22 @@
 > Extrapolation refer to predicting values that are outside of a range of  data poits.
 
 > Imagine you got the number sequence:- 2,4,_,8,10,12. What is the number in the blank spot? obviously 6 .By solving this problem you interpolated the value. Now in the sequence of 2,4,6,8,10. what is the next value? 12 right? Well, in this case you have extrapolated the value.
+
+## 07/09/22
+- **Topic**
+  * Bing Image Downloader
+  * Installation of Bing Image Downloader 
+  
+  **Bing Image Downloader**
+  >  It is a Python Library to download bulk of images from Bing.com
+  > It's program let's you download tons of images from Bing.
+  
+  **Installation of Bing Image Downloader in Jupyter Notebook**
+  > Inside a notebook, type out (!pip install bing-image-downloader) an run.
+  
+  **How to download images from Bing?**
+  > ![image](https://user-images.githubusercontent.com/75212387/188767034-eb0d9923-d031-4463-a9b1-c1359bcb7564.png)
+
+  
+  
+
