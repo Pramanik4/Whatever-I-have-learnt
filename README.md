@@ -51,6 +51,9 @@
   
   **How to download images from Bing?**
   > ![image](https://user-images.githubusercontent.com/75212387/188767034-eb0d9923-d031-4463-a9b1-c1359bcb7564.png)
+  
+  **Numpy Question**
+  > ![image](https://user-images.githubusercontent.com/75212387/188799530-68e1dc9e-eecc-4886-9f9a-811cc92ccab3.png)
 
   
   
