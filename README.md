@@ -55,6 +55,14 @@
   **Numpy Question**
   > ![image](https://user-images.githubusercontent.com/75212387/188799530-68e1dc9e-eecc-4886-9f9a-811cc92ccab3.png)
 
+## 10/09/22
+- **Topic**
+  * Model Deployment
   
+  **What is Model Deployment?**
+  > Model Deployment simply means the engineering task of an ML model to real use.
+  
+  **What is the purpose of the Model Deployment?**
+  > The main goal of the Model Deployment is the created model can be make use of by other people.
   
 
