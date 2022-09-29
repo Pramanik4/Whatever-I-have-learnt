@@ -66,3 +66,13 @@
   > The main goal of the Model Deployment is the created model can be make use of by other people.
   
 
+## 29/09/22
+- **Topic**
+  * NLTK
+
+  ![image](https://user-images.githubusercontent.com/75212387/192944958-6ca39bf4-3639-4eef-a168-6c61ca289233.png)
+  
+  ![image](https://user-images.githubusercontent.com/75212387/192945064-988dbd85-d08e-4677-bc2f-4e11843bb644.png)
+
+  ![image](https://user-images.githubusercontent.com/75212387/192944655-677e7abd-ea77-4080-97e8-91cc9cba2e13.png)
+
