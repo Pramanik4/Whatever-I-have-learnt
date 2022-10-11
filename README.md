@@ -79,3 +79,20 @@
   ![image](https://user-images.githubusercontent.com/75212387/192946008-48dea2fb-cf02-4098-b72b-21b2aade08a7.png)
 
   ![image](https://user-images.githubusercontent.com/75212387/192945707-6c692580-12a2-4c45-a14b-37588c9a4eea.png)
+  
+  
+## 11/10/22
+- **Topic**
+  * Define Flask
+  
+  **What is Flask**
+  > Flask is a Web Application Framework. 
+  
+  > It is written in Python language.
+  
+  > Armin Ronacher has developed the Flask Framework.
+  
+  > This Framework is based on WSGI (Web Server Gateway Interface) & Jinja 2 Template Engine it is also known as "Web Templing System".
+  
+  ![image](https://user-images.githubusercontent.com/75212387/195080888-2830d061-16cc-43a0-b1da-b266b2a2a665.png)
+
